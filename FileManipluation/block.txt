@@ -1,0 +1,3 @@
+some text
+second line
+some other stuff without new lineon the same line
