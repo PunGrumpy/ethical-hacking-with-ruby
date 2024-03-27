@@ -51,4 +51,14 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
       <a href="https://github.com/PunGrumpy" title="Code">💻</a>
       <a href="https://github.com/PunGrumpy/ethical-hacking-with-ruby/commits?author=PunGrumpy" title="Commits">📖</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/noraj">
+        <img src="https://avatars.githubusercontent.com/u/16578570?v=4" width="100px;" alt="noraj"/>
+        <br />
+        <sub><b>noraj</b></sub>
+      </a>
+        <br />
+        <a href="https://github.com/noraj" title="Instructor">👨‍🏫</a>
+    </td>
+  </tr>
 </table>
