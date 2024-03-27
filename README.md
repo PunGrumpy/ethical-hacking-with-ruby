@@ -1,7 +1,7 @@
 <div align="center">
     <h1><code>🛡️</code> Ethical Hacking with Ruby</h1>
     <div>
-        <strong>Learn Ethical Hacking with Ruby</strong>
+        <strong>How to conduct ethical hacking on corporate systems and web applications using Ruby.</strong>
     </div>
     <div>
         <img src=".github/image/banner.gif" alt="Banner" width="300" height="auto"/>
