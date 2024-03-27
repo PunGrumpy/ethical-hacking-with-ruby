@@ -25,11 +25,13 @@ Are you eager to strengthen your hacking skills or venture into ethical hacking?
 
 ## `📖` Table of Contents
 
-| Status | Topic                                                              | Description                                                    |
-| ------ | ------------------------------------------------------------------ | -------------------------------------------------------------- |
-| `🟢`   | [File Manipulation](./SystemHacking/FileManipulation)              | Learn how to manipulate files using Ruby.                      |
-| `🟢`   | [Parsing HTML, JSON, YAML, XML, and TOML](./SystemHacking/Parsing) | Learn how to parse HTML, JSON, YAML, XML, and TOML using Ruby. |
-| `🔴`   | [Command Execution](./SystemHacking/CommandExecution)              | Learn how to execute commands using Ruby.                      |
+| Status | Topic                                                                                            | Description                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| `🟢`   | [File Manipulation](./SystemHacking/FileManipulation)                                            | Learn how to manipulate files using Ruby.                                            |
+| `🟢`   | [Parsing HTML, JSON, YAML, XML, and TOML](./SystemHacking/Parsing)                               | Learn how to parse HTML, JSON, YAML, XML, and TOML using Ruby.                       |
+| `🟢`   | [Command Execution](./SystemHacking/CommandExecution)                                            | Learn how to execute commands using Ruby.                                            |
+| `🔴`   | [Interact with Files in the `/etc` Directory on Unix Systems](./SystemHacking/InteractWithFiles) | Learn how to interact with files in the `/etc` directory on Unix systems using Ruby. |
+| `🔴`   | [String Conversation / Encoding](./SystemHacking/StringConversationEncoding)                     | Learn how to convert strings using Ruby.                                             |
 
 ## `📜` License
 
