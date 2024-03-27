@@ -25,10 +25,11 @@ Are you eager to strengthen your hacking skills or venture into ethical hacking?
 
 ## `📖` Table of Contents
 
-| No. | Topic                                                              | Status |
-| --- | ------------------------------------------------------------------ | ------ |
-| 1   | [File Manipulation](./SystemHacking/FileManipulation)              | ✅     |
-| 2   | [Parsing HTML, JSON, YAML, XML, and TOML](./SystemHacking/Parsing) | ❌     |
+| Status | Topic                                                              | Description                                                    |
+| ------ | ------------------------------------------------------------------ | -------------------------------------------------------------- |
+| `🟢`   | [File Manipulation](./SystemHacking/FileManipulation)              | Learn how to manipulate files using Ruby.                      |
+| `🟢`   | [Parsing HTML, JSON, YAML, XML, and TOML](./SystemHacking/Parsing) | Learn how to parse HTML, JSON, YAML, XML, and TOML using Ruby. |
+| `🔴`   | [Command Execution](./SystemHacking/CommandExecution)              | Learn how to execute commands using Ruby.                      |
 
 ## `📜` License
 
