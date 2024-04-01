@@ -35,6 +35,7 @@ Are you eager to strengthen your hacking skills or venture into ethical hacking?
 | `🟢`   | [Databases](./WebsiteHacking/Databases)                                                          | Learn how to interact with databases (SQL, MySQL, Mongo, and Redis using Ruby.       |
 | `🟢`   | [Browser Instrument](./WebsiteHacking/BrowserInstrument)                                         | Learn how to interact with browsers using Ruby.                                      |
 | `🟢`   | [SQL/NoSQL Injection](./WebsiteHacking/SQLInjection)                                             | Learn how to conduct SQL/NoSQL injection using Ruby.                                 |
+| `🟢`   | [Interaction with API](./WebsiteHacking/API)                                                     | Learn how to interact with APIs using Ruby.                                          |
 
 ## `📜` License
 
