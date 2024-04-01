@@ -36,6 +36,7 @@ Are you eager to strengthen your hacking skills or venture into ethical hacking?
 | `🟢`   | [Browser Instrument](./WebsiteHacking/BrowserInstrument)                                         | Learn how to interact with browsers using Ruby.                                      |
 | `🟢`   | [SQL/NoSQL Injection](./WebsiteHacking/SQLInjection)                                             | Learn how to conduct SQL/NoSQL injection using Ruby.                                 |
 | `🟢`   | [Interaction with API](./WebsiteHacking/API)                                                     | Learn how to interact with APIs using Ruby.                                          |
+| `🟢`   | [Burp suite Extension](./WebsiteHacking/BurpSuiteExtension)                                      | Learn how to create Burp Suite extensions using Ruby.                                |
 
 ## `📜` License
 
