@@ -37,6 +37,9 @@ Are you eager to strengthen your hacking skills or venture into ethical hacking?
 | `🟢`   | [SQL/NoSQL Injection](./WebsiteHacking/SQLInjection)                                             | Learn how to conduct SQL/NoSQL injection using Ruby.                                 |
 | `🟢`   | [Interaction with API](./WebsiteHacking/API)                                                     | Learn how to interact with APIs using Ruby.                                          |
 | `🟢`   | [Burp suite Extension](./WebsiteHacking/BurpSuiteExtension)                                      | Learn how to create Burp Suite extensions using Ruby.                                |
+| `🟢`   | [Web Server](./WebsiteHacking/WebServer)                                                         | Learn how to create a web server using Ruby.                                         |
+| `🟢`   | [Web Fuzzing](./WebsiteHacking/WebFuzzing)                                                       | Learn how to conduct web fuzzing using Ruby.                                         |
+| `🟢`   | [Encoding](./WebsiteHacking/Encoding)                                                            | Learn how to encode and decode data using Ruby with CTF Party.                       |
 
 ## `📜` License
 
