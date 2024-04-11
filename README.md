@@ -1,10 +1,11 @@
 <div align="center">
     <h1><code>🛡️</code> Ethical Hacking with Ruby</h1>
+    <sub>👨‍🎓 The course has now achieved success</sub>
     <div>
         <img src=".github/image/banner.gif" alt="Banner" width="300" height="auto"/>
     </div>
     <div>
-        <strong>How to conduct ethical hacking on corporate systems and web applications using Ruby.</strong>
+        <strong>How to conduct ethical hacking on corporate systems and web applications using Ruby.</strong> 
     </div>
     <div>
         <a href="https://www.ruby-lang.org/en/">
